@@ -1,0 +1,31 @@
+_repo: English-Literature-Considered-as-an-Interpreter-of-English-HistoryDesigned-as-a-Manual-of-Ins__15176
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Coppée, Henry
+    alias: Coppee, Henry
+    birthdate: 1821
+    deathdate: 1895
+    gutenberg_agent_id: '5904'
+    url: http://www.gutenberg.org/2009/agents/5904
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Copp%C3%A9e
+description: ''
+gutenberg_issued: '2005-02-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15176'
+  lccn: '11015796'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English literature -- History and criticism'
+title: 'English Literature, Considered as an Interpreter of English History
+
+  Designed as a Manual of Instruction'
+url: http://www.gutenberg.org/ebooks/15176
